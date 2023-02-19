@@ -1,9 +1,11 @@
-<img src="https://salt.tikicdn.com/cache/280x280/ts/product/35/d8/bb/8f37f83c562272cc0d2d00770bce4ff6.jpg" alt="Tranh Dán Tường 3D Cao Cấp VAD_TNH0328" data-noaft="1" align="left" width="400">
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+
+<img src="https://salt.tikicdn.com/cache/280x280/ts/product/35/d8/bb/8f37f83c562272cc0d2d00770bce4ff6.jpg" alt="Tranh Dán Tường 3D Cao Cấp VAD_TNH0328" data-noaft="1" align="right" width="400">
 <h1 align="center">Hi 👋, I'm Duc Toan</h1>
 <p align="center">
-  <h3 align="center">A developer from Vietnam </h3>
+  <h3 align="">A developer from Vietnam </h3>
 </p>
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+
 
 
 - ✍ I'm a student of: [FPT University](https://hcmuni.fpt.edu.vn) (FUHCM).
