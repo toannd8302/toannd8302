@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Java**
 <br/>
 
-📫 How to reach me:
+## 📫 How to reach me:
 
 <p align="center">
   
