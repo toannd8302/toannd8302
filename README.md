@@ -34,6 +34,9 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/spring-logo.png"/> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/>
 </p>
 
 ## Activities:
