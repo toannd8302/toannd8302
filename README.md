@@ -1,8 +1,8 @@
 ## 👋 About Me
-- 👨‍💻: My full name is **Nguyễn Đức Toàn**
+- 👨‍💻: My name is **Nguyễn Đức Toàn**
 - 🏢: I'm a student of **FPT University - Ho Chi Minh City**
-- 🧑‍🎓: My major is **Software Engineering**
-- 🌆: I'm now living in **Ho Chi Minh City, Viet nam**
+- 🧑‍🎓:  **Software Engineering**
+- 🌆:  **Ho Chi Minh City, Viet nam**
 
 
 ## 📫 How to reach me:
