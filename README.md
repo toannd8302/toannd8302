@@ -20,22 +20,25 @@
 </p>
 
 ## Skills:
+
+<div align="center">
+
+| Programing Language | Coding Tool | FrameWork |
+| :---: | :---: | :---: |
+| ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java | ![IntelliJ IDEA](https://img.icons8.com/color/48/intellij-idea.png) IntelliJ IDEA | ![Spring](https://img.icons8.com/color/48/null/spring-logo.png) Spring |
+| ![Dart](https://img.icons8.com/color/48/dart.png) Dart | ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code | ![Flutter](https://img.icons8.com/color/48/flutter.png) Flutter |
+| ![Kotlin](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png) Kotlin | ![Android Studio](https://img.icons8.com/color/48/android-studio--v2.png) Android Studio | |
+
+</div>
+
+
+### Other 
 <p align="center">
- 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/12/hibernate-interview-questions-logo.png" alt=" Hibernate width="48" height= "48""/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img src="https://img.icons8.com/color/48/null/spring-logo.png"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
 </p>
 
 ## Activities:
@@ -58,6 +61,5 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Software Development Lifecycle](https://www.coursera.org/account/accomplishments/specialization/certificate/STGU3LRA8VG9)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/account/accomplishments/specialization/certificate/FZAEGS9VVRQE)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Project Management Project](https://coursera.org/share/c6e33c796ad7837fe54e700a086709f1)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) CertNexus Certified Ethical Emerging Technologist](https://coursera.org/share/8a61c3ccc96d73419ef2cc2d8dfd7bcd)
