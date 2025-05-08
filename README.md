@@ -60,6 +60,3 @@
 ## Certificates:
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Software Development Lifecycle](https://www.coursera.org/account/accomplishments/specialization/certificate/STGU3LRA8VG9)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Project Management Project](https://coursera.org/share/c6e33c796ad7837fe54e700a086709f1)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) CertNexus Certified Ethical Emerging Technologist](https://coursera.org/share/8a61c3ccc96d73419ef2cc2d8dfd7bcd)
