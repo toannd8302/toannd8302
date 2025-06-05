@@ -19,19 +19,6 @@
   </a> 
 </p>
 
-## Skills:
-
-<div align="center">
-
-| Programing Language | Coding Tool | FrameWork |
-| ---| --- | --- |
-| ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java | ![IntelliJ IDEA](https://img.icons8.com/color/48/intellij-idea.png) IntelliJ IDEA | ![Spring](https://img.icons8.com/color/48/null/spring-logo.png) Spring |
-| ![Dart](https://img.icons8.com/color/48/dart.png) Dart | ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code | ![Flutter](https://img.icons8.com/color/48/flutter.png) Flutter |
-| ![Kotlin](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png) Kotlin | ![Android Studio](https://img.icons8.com/color/48/android-studio--v2.png) Android Studio | |
-
-</div>
-
-
 ### Other 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
